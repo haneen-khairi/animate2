@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    height: 700px;
+}
+
+#animation {
+    background: rgb(87, 117, 191);
+    position: fixed;
+}
